@@ -9,5 +9,8 @@ In this task we are considering only Hindi singatures for easeness.
 
 Paper Link: https://arxiv.org/pdf/1707.02131.pdf
 
+The below image shows the Genuine - Genuine signature.
 <img src="./Genuine_Genuine.jpg">
+
+The below image shows the Genuine - Forged signature.
 <img src="./Genuine_Forged_2.jpg">
