@@ -8,3 +8,6 @@ For each of the signers, 24 genuine and 30 forged signatures are available. This
 In this task we are considering only Hindi singatures for easeness.
 
 Paper Link: https://arxiv.org/pdf/1707.02131.pdf
+
+<img src="./Genuine_Genuine.jpg">
+<img src="./Genuine_Forged_2.jpg">
